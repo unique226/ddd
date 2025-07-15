@@ -68,7 +68,7 @@
     }
     #settings{
         position:fixed;
-        width: 100%;
+        width: 400px;
        height: 400px;
         left: 99px;
         border: 1px solid red;
@@ -77,7 +77,4 @@
 
     
 
-}
-#inp1{
-    transform: perspective(300px) rotateX('20deg');
 }
